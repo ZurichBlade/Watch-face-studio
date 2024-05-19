@@ -4,7 +4,7 @@ Created using Watch Face Studio, this watch face combines style with utility. Vi
 
 ## Preview
 
-![App Screenshot](https://github.com/ZurichBlade/Watch-face-studio/blob/main/My%20Watch%20Face%20Assigment3_1712392083665.png)
+![App Screenshot](https://github.com/ZurichBlade/Watch-face-studio/blob/main/My%20Watch%20Face.png)
 
 
 ## Features
