@@ -12,7 +12,7 @@ Created using Watch Face Studio, this watch face combines style with utility. Vi
 - Watch Face Design: An aesthetically pleasing watch face using Watch Face Studio, showcasing creativity
 
 - Complications Integration: Two complications have been seamlessly integrated into the design, offering users steps and notification counts information while ensuring legibility and aesthetic harmony with the watch face.
-- 
+  
 - Functionality:The watch face functions flawlessly on Wear OS devices or emulator, providing essential timekeeping features alongside consistently updated complications for an enhanced user experience.
 
 ## Note
